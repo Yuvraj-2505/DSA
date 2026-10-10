@@ -18,4 +18,5 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Yuvraj-2505/DSA/tree/master/0041-first-missing-positive) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yuvraj-2505/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
