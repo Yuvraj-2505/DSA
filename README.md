@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Yuvraj-2505/DSA/tree/master/0796-rotate-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yuvraj-2505/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -30,4 +31,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvraj-2505/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Yuvraj-2505/DSA/tree/master/0189-rotate-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Yuvraj-2505/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
