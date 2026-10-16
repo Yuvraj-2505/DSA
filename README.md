@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvraj-2505/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Yuvraj-2505/DSA/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Yuvraj-2505/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Yuvraj-2505/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvraj-2505/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvraj-2505/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Yuvraj-2505/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Yuvraj-2505/DSA/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
