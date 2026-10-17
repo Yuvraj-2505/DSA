@@ -11,6 +11,7 @@
 | ------- |
 | [0796-rotate-string](https://github.com/Yuvraj-2505/DSA/tree/master/0796-rotate-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yuvraj-2505/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/Yuvraj-2505/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Yuvraj-2505/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Yuvraj-2505/DSA/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Yuvraj-2505/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Yuvraj-2505/DSA/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Yuvraj-2505/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
