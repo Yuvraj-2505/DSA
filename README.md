@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvraj-2505/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Yuvraj-2505/DSA/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Yuvraj-2505/DSA/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Yuvraj-2505/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Yuvraj-2505/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvraj-2505/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Yuvraj-2505/DSA/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yuvraj-2505/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Yuvraj-2505/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -53,4 +55,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yuvraj-2505/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvraj-2505/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Yuvraj-2505/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
